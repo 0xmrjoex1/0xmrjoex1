@@ -40,7 +40,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/51wn4b.mp4"  />
 
 ###
 
