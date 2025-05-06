@@ -38,12 +38,13 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
 </a>
 
-- **WebSite:**[guns.lol](https://guns.lol/0xmrjoex)
+- **WebSite: **[guns.lol](https://guns.lol/0xmrjoex)
 ---
 
 ## Availability
-- Open for programming requests
-- Contact me via Discord (redpwnx) or Telegram (redpwnx)
+- **Open for Programming requests**
+- **and Hacking requests**
+- **and learn Ethical Hacking requests**
 
 
 <div align="center">
