@@ -8,8 +8,10 @@
 ---
 
 ## Skills
-- **Python:** >90%
-- **C#:** >40%
+- **Python**
+- **C#** 
+- **HTML**
+**JavaScript**
   
 ---
 
