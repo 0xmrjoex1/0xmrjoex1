@@ -67,7 +67,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![Snake animation](0xmrjoex.svg)
 
 ###
 ## 2022-2024 Contributions
